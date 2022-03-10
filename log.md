@@ -12,9 +12,9 @@
 
 ### Day 2: March 9, Wednesday
 
-**Today's Progress**:
+**Today's Progress**: I started this log today and filled in yesterday's details. Today I worked through Shayhowe Lesson 11, not completed yet but got about halfway done with the Schedule page! I also added a repo for my Styles Conference site to show my progress. I also completed The Odin Projects Javascript Fundamental Pt. 1 lesson and messed with variables, Numbers, and operators in the console. 
 
-**Thoughts** 
+**Thoughts** I didn't get much project coding done today but learned a lot and am happy that I should finish up Shay Howe reading tomorrow or Friday. I am already familiar with Javascript fundamentals from my job teaching kids how to code so it's making Javascript a lot easier to pick up.
 
 **Link(s) to work**
-1. [Learn HTML Forms by Building a Registration Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-57)
+1. [Styles Conference Schedule Page](https://krismally.github.io/styles-conference-site-shayhowe/schedule.html)
