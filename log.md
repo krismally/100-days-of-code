@@ -8,7 +8,7 @@
 
 **Link(s) to work**
 1. [Learn HTML Forms by Building a Registration Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-57)
-2. Styles Conference - link to be added
+2. [Styles Conference Register Page](https://krismally.github.io/styles-conference-site-shayhowe/register.html)
 
 ### Day 2: March 9, Wednesday
 
