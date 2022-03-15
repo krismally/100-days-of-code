@@ -29,3 +29,38 @@
 1. [Styles Conference Schedule Page](https://krismally.github.io/styles-conference-site-shayhowe/schedule.html)
 2. [Practice Repl's on variables, match, and conditionals - The Odin Project Assignment](https://replit.com/@krismally1)
 3. [Chrome Dev Tools Documentation - The Odin Project Assignment](https://developer.chrome.com/docs/devtools/dom/)
+
+### Day 4: March 11, Friday 
+
+**Today's Progress**: Signed up for the April 4 Chingu Voyage! Spent time looking through Tier 1 Solo Projects, researching other people's experience, and introducing myself in the Chingu Discord. Finished the Javascript Dev Tools lesson today! Took a while to get through (three 25 min pomodoro sessions) since I followed along with each exercise in my browser.
+
+**Thoughts** I didn't get much sleep so my productivity dipped quickly today. I did enjoy learning new capabilities of Chrome's Dev Tools and am very excited to start my Chingu Solo Project. Unexpected personal life things hit me hard in the afternoon and then I had a shift at my part-time kid's coding instructor job so I didn't code after about 2pm.
+
+**Link(s) to work**
+1.[Chrome Dev Tools Documentation - The Odin Project Assignment](https://developer.chrome.com/docs/devtools/dom/)
+
+### Day 5: March 12, Saturday 
+
+**Today's Progress**: I had a coffee chat with a Senior Web Developer and summarized the experience on Twitter and LinkedIn. I also watched a few YouTube videos on building a tech resume, accessibility in code, and startups. Then, I chose my Solo Project for Chingu. Not much actual code done today due to mental and physical health. 
+
+**Thoughts** Today was hard. I started the day feeling mentally and physically awful and it ended up getting worse as the day went on. I did still get some helpful things done, just couldn't be at my desk much. 
+
+**Link(s) to work**
+1. [Chosen Chingu Solo Project](https://github.com/chingu-voyages/soloproject-tier1-favfonts)
+2. [LinkedIn Coffee Chat Recap Post](https://www.linkedin.com/posts/kris-mally_coffeechat-opensource-burnout-activity-6908489805764661248-YGAS?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
+### Day null: March 13, Sunday
+
+**Today's Progress**: Missed coding work today. Met with my startup partner to define MVP requirements list and discuss next-steps. Then researched Project Management tools and started migrating our workflow to Notion. 
+
+**Thoughts** Too busy with non-coding startup work and focusing on recovering from a draining past couple days
+
+### Day 6: March 14, Monday
+
+**Today's Progress**: I worked on TOP JS today! Started fundamentals Pt. 3 and learned basics of Functions. I finished: read MDN's Functions guide and Return Values guide, all practice for the Functions guide, started the function-library.html practice for the Return Values guide.
+
+**Thoughts** Not as productive as I wanted but ended up full planning out a time management system which was a major necessity for succesfully continuing this challenge! Overall: satisfied with the day. 
+
+**Link(s) to work**
+1. [Functions MDN Guide - TOP Assignment](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions#where_do_i_find_functions)
+2. [Return Values MDN Guide - TOP Assignment](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values#what_are_return_values)
