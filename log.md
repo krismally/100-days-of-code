@@ -64,3 +64,13 @@
 **Link(s) to work**
 1. [Functions MDN Guide - TOP Assignment](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions#where_do_i_find_functions)
 2. [Return Values MDN Guide - TOP Assignment](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values#what_are_return_values)
+
+### Day 7: March 15, Tuesday
+
+**Today's Progress**: I started off today with a coffee chat where we talked about the benefits of reading, maintaining health, and scheduling time with friends/family to avoid burnout. We also talked about going the DevOps route which was interesting to hear about! Then, I caught up my log and twitter with the past few days of progress and plan going forward. I also watched a lot of Leon's massive review stream from Sunday - from CSS box model to Javascript Conditionals and followed along with the challenges that I wanted extra practice on. Lastly, I made a CodeWars account and completed 5 kata's at the 8kyu rank. 
+
+**Thoughts** I am hooked on CodeWars! I enjoy problem-solving a lot and the gamification aspect is super fun. Each challenge only took me ~5-10 minutes but I liked looking at the other solutions for different perspectives. I also have felt good networking and Leon's review is great! I felt pretty good today and feel more confident on my Javascript knowledge.
+
+**Link(s) to work**
+1. [CodeWars Solutions](https://www.codewars.com/users/krismally/completed_solutions)
+2. [Super Review 100Devs](https://www.twitch.tv/videos/1424558060)
