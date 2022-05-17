@@ -20,3 +20,6 @@ code: https://github.com/krismally/guide-to-mcu
 
 ### R1D5
 Not too much coding done since it was presentation day at General Assembly! I did some final touches on my project and debugged a couple small things. One last detail - figuring out how to link back to my home page from the credits w Netlify.
+
+### R1D6
+I dove into backend development! Learned express basics and practiced setting up an express server, GET routes, and using query params.
